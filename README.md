@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShriCodeAspirer Studyiing masters 
+- 👋 Hi, I’m @ShriCodeAspirer Studying masters 
 - 👀 I’m interested in deepen my programming skills especially interested in Automotive Related codings.  
 - 🌱 I’m currently learning python, SQL, Matlab etc
 - 📫 shripalk1996@gmail.com
